@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Crop Recommendation System",
+    "desc": "This is a web-based application that helps farmers determine the best crop to cultivate.",
+    "image": "crop",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ieeexplore.ieee.org/abstract/document/10530724",
+      "code": "https://github.com/Asit2003/Crop-Recommendation-System-Using-Machine-Learning"
+    }
+  },
+  {
+    "name": "Old Car Value Predictor",
+    "desc": "This project predicts the value of old cars using machine learning regression models.",
+    "image": "car",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://github.com/Asit2003/Old_Car_Value_Predictor/blob/main/README.md",
+      "code": "https://github.com/Asit2003/Old_Car_Value_Predictor"
+    }
+  },
+  {
+    "name": "Library Management System",
+    "desc": "This is a software solution designed to efficiently manage and automate library operations.",
+    "image": "lb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Asit2003/Library-Management-System"
+    }
+  },
+  {
+    "name": "Drought Forcasting",
+    "desc": "Drought forecasting using NASA data predicts droughts based on rainfall.",
+    "image": "dr",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://github.com/Asit2003/Drought-Forcasting",
+      "code": "https://github.com/Asit2003/Drought-Forcasting"
+    }
+  },
+  {
+    "name": "Smart Attendance System",
+    "desc": "Smart Attendance System automates attendance tracking using technologies like facial recognition.",
+    "image": "fc",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://github.com/Asit2003/Smart-Attendance-System",
+      "code": "https://github.com/Asit2003/Smart-Attendance-System"
+    }
+  },
+  {
+    "name": "Super Store Sales Dashboard",
+    "desc": "Using visuals and charts, provide useful information to corporate organizations about the performance of their sales strategy.",
+    "image": "flipkartmern",
+    "category": "Dashboard",
+    "links": {
+      "view": "https://www.linkedin.com/feed/update/urn:li:activity:7137421799922798592?utm_source=share&utm_medium=member_desktop",
+      "code": "https://www.linkedin.com/feed/update/urn:li:activity:7137421799922798592?utm_source=share&utm_medium=member_desktop"
+    }
+  },
+  {
+    "name": "Plant Leaf Disease Detection",
+    "desc": "Plant Leaf Disease Detection identifies diseases in plants using image processing and machine learning techniques.",
+    "image": "pl",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://colab.research.google.com/drive/1OBeO49-jZFyOZ1zaVWoDAkA4Wb_xQuhB?usp=sharing",
+      "code": "https://colab.research.google.com/drive/1OBeO49-jZFyOZ1zaVWoDAkA4Wb_xQuhB?usp=sharing"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Todo List API",
+    "desc": "This project is a simple Todo List API built with FastAPI that allows users to perform CRUD operations on todo items.",
+    "image": "todo",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Asit2003/Todo-list-API/tree/main",
+      "code": "https://github.com/Asit2003/Todo-list-API/tree/main"
+    }
+  },
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Old Websites",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "oldsites",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Resistor Color Codes",
+    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
+    "image": "resistercolor",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "KIA Info Website",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
