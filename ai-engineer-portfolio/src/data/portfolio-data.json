@@ -1,0 +1,82 @@
+{
+  "name": "Asit Ghosh",
+  "title": "AI Engineer",
+  "location": "Bengaluru, India",
+  "email": "asitg2003@gmail.com",
+  "phone": "+91 9036338260",
+  "socials": {
+    "linkedin": "https://linkedin.com/in/asit-ghosh",
+    "github": "https://github.com/Asit2003",
+    "scholar": "https://scholar.google.com/"
+  },
+  "summary": "AI Engineer specializing in fully autonomous agentic AI systems powered by LLMs, multi-agent orchestration, and production-grade backend infrastructure.",
+  "skills": {
+    "agentic_ai": ["Multi-Agent Systems", "Tool Calling", "State Management", "Prompt Orchestration", "Agent Evaluation"],
+    "frameworks": ["LangGraph", "LangChain", "OpenAI Agents SDK", "DeepEval", "LangSmith", "Inngest"],
+    "backend": ["Python", "FastAPI", "Docker", "Google Cloud Run", "CI/CD"],
+    "data": ["SQL", "MongoDB", "Regex-based Context Retrieval", "NumPy", "Pandas", "Scikit-learn"]
+  },
+  "experience": [
+    {
+      "company": "Karbon Business",
+      "role": "AI Engineer",
+      "period": "Nov 2024 - Present",
+      "location": "Bengaluru, India",
+      "impact": [
+        "Led development of FlowTAX, an agentic AI platform for CPAs.",
+        "Architected a 5-agent autonomous workflow for document-heavy financial processes.",
+        "Reduced workflow time from 3 days to under 30 seconds."
+      ]
+    },
+    {
+      "company": "Karbon Business",
+      "role": "AI Engineer Intern",
+      "period": "Jun 2024 - Nov 2024",
+      "location": "Bengaluru, India",
+      "impact": [
+        "Built outreach and extraction automation with Python + Selenium.",
+        "Saved ₹75,000/month in operations; ~₹9,00,000 annually.",
+        "Reduced manual effort by 40% with LLM extraction pipelines."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "FlowTAX",
+      "category": "Agentic AI",
+      "description": "Autonomous multi-agent AI platform for CPA workflows with durable async orchestration and evaluation.",
+      "stack": ["LangGraph", "Inngest", "FastAPI", "DeepEval", "LangSmith"]
+    },
+    {
+      "title": "AI Responder",
+      "category": "LLM Automation",
+      "description": "Automated sales and customer interactions using regex context extraction and prompt chaining.",
+      "stack": ["Python", "OpenAI", "Docker"]
+    },
+    {
+      "title": "RAG-Based Study Assistant",
+      "category": "RAG",
+      "description": "PDF question-answering assistant with chunking, embeddings, FAISS retrieval, and GPT-based grounded answers.",
+      "stack": ["Python", "FAISS", "OpenAI GPT-4", "PyMuPDF"]
+    },
+    {
+      "title": "Crop Recommendation Decision Support System",
+      "category": "Machine Learning",
+      "description": "ML/DL system recommending optimal crops from soil and environmental features.",
+      "stack": ["Scikit-learn", "TensorFlow", "Pandas"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centurion University",
+      "degree": "B.Tech in Computer Science Engineering (Artificial Intelligence)",
+      "period": "Aug 2020 - May 2024"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Cloud Practitioner",
+    "LLM Engineering with RAG: Optimizing AI Solutions",
+    "Python Programming — From Basics to Advanced",
+    "Practical MySQL for Data Analysis"
+  ]
+}
